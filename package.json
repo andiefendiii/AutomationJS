@@ -1,0 +1,20 @@
+{
+  "name": "mocha-chai",
+  "version": "1.0.0",
+  "description": "mocha-chai automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha --timeout 10000"
+  },
+  "keywords": [
+    "api",
+    "automation"
+  ],
+  "author": "andi",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
