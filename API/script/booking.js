@@ -51,8 +51,7 @@ describe("Get Booking Functionality", function () {
             .get("/booking/1879")
             .send();
         assert(response.statusCode).to.eql(200);
-        }).timeout(20000);;  
-
+        }).timeout(20000);
 });
 
 });
