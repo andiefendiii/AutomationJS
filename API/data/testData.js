@@ -1,8 +1,8 @@
 module.exports = { 
     DATA_BOOKING : {
-        firstname : "Ayu",
-        lastname : "Ayunda",
+        firstname : "Andi",
+        lastname : "Efendi",
         price : 6661,
-        // basicToken : "8a7caa5714eb292"
+
     }
 } 
